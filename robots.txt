@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maetaiviat.onnlucky.com/sitemap.xml
